@@ -1,0 +1,20 @@
+{
+  "accuracy": 0.6229508196721312,
+  "precision": 0.5405405405405406,
+  "recall": 0.7692307692307693,
+  "f1": 0.6349206349206349,
+  "confusion_matrix": [
+    [
+      18,
+      17
+    ],
+    [
+      6,
+      20
+    ]
+  ],
+  "training_rows": 244,
+  "test_rows": 61,
+  "version": "reconstructed-decision-tree-v1",
+  "note": "Synthetic dataset and reconstructed model based on uploaded midterm notebook structure; not the original fitted model or original exam metrics."
+}

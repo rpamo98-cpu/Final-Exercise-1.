@@ -1,0 +1,401 @@
+Request_ID,Service_Type,Requester_Type,Submission_Date,Requested_Channel,Priority,Assigned_Office,Queue_Length,Required_Documents_Complete,Processing_Days,SLA_Days,Status,Reopened,Satisfaction_Score,Submission_Weekday,Queue_Category,SLA_Breached
+REQ-1000,Records,Staff,2026-01-01,Portal,High,Registrar,21,Yes,3.0,3,Pending,No,3.0,Thursday,High,
+REQ-1001,Scholarship,Staff,2026-01-01,Portal,Normal,Admissions,1,No,1.0,3,Completed,No,3.0,Thursday,Low,0
+REQ-1002,IT Support,Student,2026-01-01,Email,High,Admissions,9,No,,2,Cancelled,Yes,,Thursday,Medium,
+REQ-1003,Certification,Staff,2026-01-01,Walk-in,High,Registrar,11,No,3.0,3,Completed,No,5.0,Thursday,Medium,0
+REQ-1004,Certification,Faculty,2026-01-01,Walk-in,Normal,Registrar,19,Yes,2.0,5,Completed,No,4.0,Thursday,High,0
+REQ-1005,Scholarship,Faculty,2026-01-01,Walk-in,High,Admissions,3,No,2.0,2,Pending,No,3.0,Thursday,Low,
+REQ-1006,Records,Faculty,2026-01-01,Email,Normal,Registrar,10,Yes,,2,Completed,Yes,5.0,Thursday,Medium,
+REQ-1007,IT Support,Student,2026-01-01,Portal,High,IT Center,3,No,1.0,5,Completed,No,5.0,Thursday,Low,0
+REQ-1008,Records,Staff,2026-01-01,Email,Low,Registrar,19,Yes,6.0,3,Completed,Yes,3.0,Thursday,High,1
+REQ-1009,Records,Student,2026-01-01,Walk-in,High,Registrar,15,Yes,5.0,5,Completed,No,1.0,Thursday,Medium,0
+REQ-1010,IT Support,Student,2026-01-01,Portal,Normal,Admissions,12,No,6.0,3,Completed,Yes,1.0,Thursday,Medium,1
+REQ-1011,Scholarship,Student,2026-01-01,Walk-in,High,Registrar,9,Yes,,5,Completed,Yes,1.0,Thursday,Medium,
+REQ-1012,IT Support,Student,2026-01-01,Walk-in,Normal,Admissions,3,No,6.0,3,Completed,No,3.0,Thursday,Low,1
+REQ-1013,Scholarship,Student,2026-01-01,Portal,High,Admissions,23,No,7.0,2,Completed,No,4.0,Thursday,High,1
+REQ-1014,IT Support,Student,2026-01-01,Walk-in,Low,Registrar,16,Yes,2.0,5,Completed,No,5.0,Thursday,High,0
+REQ-1015,Scholarship,Staff,2026-01-01,Walk-in,Low,Registrar,7,Yes,5.0,3,Completed,Yes,2.0,Thursday,Medium,1
+REQ-1016,IT Support,Staff,2026-01-01,Portal,Normal,Admissions,10,No,4.0,2,Completed,No,5.0,Thursday,Medium,1
+REQ-1017,Records,Student,2026-01-01,Portal,High,IT Center,18,Yes,4.0,3,Completed,Yes,4.0,Thursday,High,1
+REQ-1018,Scholarship,Student,2026-01-01,Email,High,Registrar,17,Yes,6.0,3,Completed,No,1.0,Thursday,High,1
+REQ-1019,Certification,Faculty,2026-01-01,Walk-in,Normal,Admissions,11,Yes,,2,Completed,No,3.0,Thursday,Medium,
+REQ-1020,IT Support,Staff,2026-01-01,Portal,Normal,Registrar,7,Yes,5.0,5,Completed,No,2.0,Thursday,Medium,0
+REQ-1021,Certification,Staff,2026-01-01,Email,Normal,Registrar,16,No,3.0,2,Completed,No,,Thursday,High,1
+REQ-1022,Records,Staff,2026-01-01,Portal,High,Admissions,16,Yes,3.0,2,Completed,No,,Thursday,High,1
+REQ-1023,Scholarship,Faculty,2026-01-01,Email,Normal,Registrar,14,No,3.0,3,Completed,No,5.0,Thursday,Medium,0
+REQ-1024,Scholarship,Faculty,2026-01-02,Email,Normal,IT Center,1,Yes,3.0,5,Completed,Yes,4.0,Friday,Low,0
+REQ-1025,IT Support,Student,2026-01-02,Portal,High,Admissions,11,No,3.0,5,Completed,Yes,3.0,Friday,Medium,0
+REQ-1026,Certification,Staff,2026-01-02,Walk-in,Low,IT Center,15,Yes,1.0,5,Pending,Yes,2.0,Friday,Medium,
+REQ-1027,Scholarship,Staff,2026-01-02,Walk-in,High,IT Center,23,Yes,1.0,2,Completed,No,5.0,Friday,High,0
+REQ-1028,IT Support,Student,2026-01-02,Walk-in,Low,IT Center,13,No,5.0,5,Completed,No,1.0,Friday,Medium,0
+REQ-1029,Certification,Staff,2026-01-02,Portal,Low,Registrar,8,Yes,3.0,5,Completed,Yes,2.0,Friday,Medium,0
+REQ-1030,Certification,Student,2026-01-02,Portal,High,IT Center,13,Yes,7.0,3,Completed,Yes,1.0,Friday,Medium,1
+REQ-1031,Records,Staff,2026-01-02,Portal,High,Admissions,4,No,4.0,3,Completed,Yes,3.0,Friday,Low,1
+REQ-1032,Records,Staff,2026-01-02,Email,High,Registrar,2,Yes,1.0,2,Completed,Yes,2.0,Friday,Low,0
+REQ-1033,IT Support,Student,2026-01-02,Portal,High,Admissions,16,Yes,2.0,5,Completed,Yes,2.0,Friday,High,0
+REQ-1034,Scholarship,Faculty,2026-01-02,Walk-in,Normal,IT Center,24,Yes,2.0,5,Completed,No,3.0,Friday,High,0
+REQ-1035,Records,Student,2026-01-02,Walk-in,Normal,IT Center,21,No,,3,Completed,No,,Friday,High,
+REQ-1036,Scholarship,Faculty,2026-01-02,Walk-in,Low,Registrar,14,No,2.0,3,Pending,Yes,4.0,Friday,Medium,
+REQ-1037,Scholarship,Staff,2026-01-02,Portal,Low,IT Center,1,No,4.0,3,Completed,Yes,5.0,Friday,Low,1
+REQ-1038,Certification,Student,2026-01-02,Portal,Low,Registrar,24,No,7.0,2,Completed,No,,Friday,High,1
+REQ-1039,IT Support,Faculty,2026-01-02,Walk-in,Low,Registrar,11,Yes,,3,Completed,No,,Friday,Medium,
+REQ-1040,Records,Staff,2026-01-02,Portal,Normal,Admissions,7,Yes,2.0,5,Completed,No,3.0,Friday,Medium,0
+REQ-1041,Scholarship,Student,2026-01-02,Email,High,Registrar,22,Yes,1.0,5,Completed,Yes,,Friday,High,0
+REQ-1042,IT Support,Student,2026-01-02,Walk-in,High,IT Center,18,Yes,2.0,5,Completed,Yes,,Friday,High,0
+REQ-1043,Certification,Faculty,2026-01-02,Portal,Normal,IT Center,18,Yes,1.0,3,Pending,Yes,,Friday,High,
+REQ-1044,Records,Faculty,2026-01-02,Portal,High,Registrar,6,No,2.0,5,Cancelled,No,3.0,Friday,Medium,
+REQ-1045,Scholarship,Faculty,2026-01-02,Portal,High,Registrar,24,No,4.0,3,Completed,No,2.0,Friday,High,1
+REQ-1046,Certification,Student,2026-01-02,Portal,High,IT Center,11,No,7.0,3,Completed,No,4.0,Friday,Medium,1
+REQ-1047,Scholarship,Staff,2026-01-02,Portal,Normal,IT Center,13,No,4.0,3,Completed,Yes,,Friday,Medium,1
+REQ-1048,IT Support,Faculty,2026-01-03,Walk-in,Low,Admissions,18,No,4.0,5,Completed,Yes,,Saturday,High,0
+REQ-1049,Scholarship,Student,2026-01-03,Email,High,Admissions,16,Yes,2.0,5,Completed,No,4.0,Saturday,High,0
+REQ-1050,Scholarship,Staff,2026-01-03,Walk-in,Low,Registrar,4,No,6.0,2,Cancelled,No,1.0,Saturday,Low,
+REQ-1051,Records,Staff,2026-01-03,Walk-in,Normal,Registrar,7,No,4.0,2,Completed,No,3.0,Saturday,Medium,1
+REQ-1052,Certification,Faculty,2026-01-03,Walk-in,Low,Registrar,9,Yes,6.0,3,Completed,Yes,5.0,Saturday,Medium,1
+REQ-1053,Certification,Student,2026-01-03,Portal,High,IT Center,23,Yes,7.0,3,Pending,Yes,4.0,Saturday,High,
+REQ-1054,Certification,Faculty,2026-01-03,Portal,Normal,Registrar,17,No,3.0,5,Completed,Yes,3.0,Saturday,High,0
+REQ-1055,Records,Faculty,2026-01-03,Walk-in,Low,Registrar,9,Yes,1.0,3,Completed,No,3.0,Saturday,Medium,0
+REQ-1056,IT Support,Student,2026-01-03,Portal,Low,Admissions,18,No,2.0,3,Cancelled,No,1.0,Saturday,High,
+REQ-1057,Records,Faculty,2026-01-03,Portal,Normal,Admissions,18,No,3.0,5,Completed,No,2.0,Saturday,High,0
+REQ-1058,IT Support,Staff,2026-01-03,Walk-in,Normal,Admissions,9,Yes,7.0,3,Completed,Yes,5.0,Saturday,Medium,1
+REQ-1059,IT Support,Student,2026-01-03,Walk-in,High,Registrar,10,Yes,3.0,3,Completed,No,2.0,Saturday,Medium,0
+REQ-1060,Scholarship,Staff,2026-01-03,Walk-in,Low,IT Center,22,Yes,5.0,3,Pending,Yes,,Saturday,High,
+REQ-1061,IT Support,Student,2026-01-03,Walk-in,High,IT Center,14,Yes,4.0,3,Completed,No,1.0,Saturday,Medium,1
+REQ-1062,Certification,Staff,2026-01-03,Portal,Normal,Registrar,3,Yes,2.0,5,Completed,No,4.0,Saturday,Low,0
+REQ-1063,Scholarship,Faculty,2026-01-03,Walk-in,High,IT Center,17,No,3.0,5,Completed,No,3.0,Saturday,High,0
+REQ-1064,Certification,Student,2026-01-03,Walk-in,Low,IT Center,14,Yes,5.0,3,Completed,No,5.0,Saturday,Medium,1
+REQ-1065,Certification,Staff,2026-01-03,Walk-in,Low,IT Center,12,Yes,5.0,3,Pending,No,,Saturday,Medium,
+REQ-1066,Scholarship,Student,2026-01-03,Walk-in,Low,Admissions,18,Yes,3.0,3,Completed,Yes,4.0,Saturday,High,0
+REQ-1067,Certification,Faculty,2026-01-03,Walk-in,Normal,Admissions,22,No,2.0,2,Cancelled,Yes,4.0,Saturday,High,
+REQ-1068,Records,Student,2026-01-03,Email,High,IT Center,8,Yes,5.0,3,Completed,No,5.0,Saturday,Medium,1
+REQ-1069,Certification,Staff,2026-01-03,Portal,Low,Admissions,10,Yes,2.0,2,Completed,No,4.0,Saturday,Medium,0
+REQ-1070,Scholarship,Staff,2026-01-03,Email,Normal,Admissions,4,No,7.0,2,Pending,Yes,2.0,Saturday,Low,
+REQ-1071,Records,Staff,2026-01-03,Portal,Low,IT Center,16,Yes,2.0,2,Completed,No,3.0,Saturday,High,0
+REQ-1072,Certification,Faculty,2026-01-04,Portal,High,Registrar,10,Yes,2.0,3,Completed,Yes,2.0,Sunday,Medium,0
+REQ-1073,Records,Faculty,2026-01-04,Portal,High,Admissions,8,Yes,3.0,2,Pending,No,3.0,Sunday,Medium,
+REQ-1074,IT Support,Faculty,2026-01-04,Walk-in,High,Admissions,17,Yes,4.0,3,Completed,Yes,4.0,Sunday,High,1
+REQ-1075,Certification,Staff,2026-01-04,Email,High,Admissions,10,Yes,4.0,3,Completed,No,2.0,Sunday,Medium,1
+REQ-1076,Certification,Staff,2026-01-04,Email,Normal,Registrar,11,No,3.0,3,Cancelled,Yes,2.0,Sunday,Medium,
+REQ-1077,Records,Student,2026-01-04,Walk-in,High,IT Center,11,Yes,,5,Completed,Yes,5.0,Sunday,Medium,
+REQ-1078,IT Support,Faculty,2026-01-04,Email,Low,Admissions,6,Yes,3.0,3,Completed,No,3.0,Sunday,Medium,0
+REQ-1079,IT Support,Student,2026-01-04,Email,High,IT Center,3,Yes,3.0,5,Completed,No,2.0,Sunday,Low,0
+REQ-1080,Scholarship,Student,2026-01-04,Portal,High,Admissions,20,No,3.0,5,Completed,Yes,5.0,Sunday,High,0
+REQ-1081,Certification,Staff,2026-01-04,Walk-in,High,Registrar,2,No,1.0,2,Completed,No,5.0,Sunday,Low,0
+REQ-1082,Records,Student,2026-01-04,Email,Normal,Registrar,8,Yes,4.0,2,Completed,Yes,5.0,Sunday,Medium,1
+REQ-1083,Scholarship,Staff,2026-01-04,Portal,High,Admissions,16,Yes,2.0,3,Completed,Yes,5.0,Sunday,High,0
+REQ-1084,IT Support,Faculty,2026-01-04,Walk-in,Normal,IT Center,3,Yes,4.0,5,Completed,Yes,,Sunday,Low,0
+REQ-1085,IT Support,Student,2026-01-04,Walk-in,Low,IT Center,16,Yes,1.0,2,Completed,Yes,4.0,Sunday,High,0
+REQ-1086,Records,Faculty,2026-01-04,Portal,High,IT Center,18,Yes,,2,Completed,No,2.0,Sunday,High,
+REQ-1087,Certification,Faculty,2026-01-04,Portal,Low,IT Center,16,Yes,3.0,5,Completed,No,,Sunday,High,0
+REQ-1088,Scholarship,Staff,2026-01-04,Portal,Low,Admissions,7,No,6.0,5,Completed,Yes,2.0,Sunday,Medium,1
+REQ-1089,Scholarship,Faculty,2026-01-04,Portal,Normal,Registrar,0,Yes,3.0,2,Completed,Yes,2.0,Sunday,Low,1
+REQ-1090,Certification,Staff,2026-01-04,Portal,Low,Admissions,22,Yes,1.0,3,Completed,No,5.0,Sunday,High,0
+REQ-1091,Scholarship,Staff,2026-01-04,Walk-in,High,Admissions,8,Yes,6.0,3,Pending,No,,Sunday,Medium,
+REQ-1092,Scholarship,Staff,2026-01-04,Email,Normal,IT Center,20,No,4.0,2,Completed,Yes,3.0,Sunday,High,1
+REQ-1093,Certification,Faculty,2026-01-04,Walk-in,Low,IT Center,4,No,5.0,2,Completed,Yes,5.0,Sunday,Low,1
+REQ-1094,Scholarship,Student,2026-01-04,Walk-in,High,Registrar,4,Yes,3.0,3,Pending,Yes,,Sunday,Low,
+REQ-1095,Certification,Faculty,2026-01-04,Email,Normal,Admissions,19,Yes,4.0,3,Completed,Yes,5.0,Sunday,High,1
+REQ-1096,Records,Student,2026-01-05,Email,Low,IT Center,23,No,6.0,2,Completed,No,1.0,Monday,High,1
+REQ-1097,IT Support,Faculty,2026-01-05,Portal,High,Registrar,21,No,4.0,3,Completed,No,4.0,Monday,High,1
+REQ-1098,IT Support,Staff,2026-01-05,Portal,Normal,IT Center,18,Yes,3.0,2,Completed,No,2.0,Monday,High,1
+REQ-1099,Records,Faculty,2026-01-05,Email,Low,Admissions,6,No,5.0,5,Completed,No,,Monday,Medium,0
+REQ-1100,Scholarship,Student,2026-01-05,Portal,High,Registrar,22,No,5.0,2,Completed,Yes,1.0,Monday,High,1
+REQ-1101,Records,Faculty,2026-01-05,Portal,Normal,Registrar,16,Yes,,2,Completed,No,,Monday,High,
+REQ-1102,Scholarship,Staff,2026-01-05,Portal,High,Admissions,4,No,3.0,2,Pending,No,2.0,Monday,Low,
+REQ-1103,Records,Staff,2026-01-05,Walk-in,High,Registrar,3,Yes,3.0,5,Pending,No,3.0,Monday,Low,
+REQ-1104,Scholarship,Student,2026-01-05,Email,Normal,Admissions,21,Yes,6.0,5,Completed,Yes,2.0,Monday,High,1
+REQ-1105,Scholarship,Faculty,2026-01-05,Walk-in,High,Admissions,6,Yes,4.0,3,Completed,No,5.0,Monday,Medium,1
+REQ-1106,Scholarship,Faculty,2026-01-05,Email,Low,Admissions,19,Yes,5.0,2,Completed,Yes,3.0,Monday,High,1
+REQ-1107,IT Support,Student,2026-01-05,Portal,Low,Admissions,3,No,3.0,5,Cancelled,No,5.0,Monday,Low,
+REQ-1108,Certification,Student,2026-01-05,Email,Normal,Registrar,7,Yes,2.0,3,Completed,No,1.0,Monday,Medium,0
+REQ-1109,IT Support,Student,2026-01-05,Portal,High,Registrar,7,Yes,5.0,5,Completed,No,3.0,Monday,Medium,0
+REQ-1110,Certification,Staff,2026-01-05,Walk-in,Normal,IT Center,7,Yes,2.0,3,Completed,No,,Monday,Medium,0
+REQ-1111,Scholarship,Staff,2026-01-05,Portal,Normal,IT Center,16,No,2.0,5,Completed,No,,Monday,High,0
+REQ-1112,IT Support,Staff,2026-01-05,Email,High,Admissions,22,No,4.0,5,Completed,Yes,2.0,Monday,High,0
+REQ-1113,Certification,Staff,2026-01-05,Walk-in,High,Admissions,22,No,5.0,2,Completed,No,3.0,Monday,High,1
+REQ-1114,IT Support,Staff,2026-01-05,Email,High,IT Center,18,Yes,6.0,5,Completed,No,3.0,Monday,High,1
+REQ-1115,IT Support,Student,2026-01-05,Email,Low,Admissions,5,No,2.0,2,Pending,Yes,4.0,Monday,Low,
+REQ-1116,Records,Staff,2026-01-05,Email,High,IT Center,24,No,2.0,3,Completed,Yes,4.0,Monday,High,0
+REQ-1117,Records,Student,2026-01-05,Walk-in,Normal,IT Center,13,No,,2,Completed,Yes,1.0,Monday,Medium,
+REQ-1118,Records,Faculty,2026-01-05,Portal,Normal,IT Center,13,Yes,2.0,5,Completed,No,5.0,Monday,Medium,0
+REQ-1119,Records,Faculty,2026-01-05,Email,Normal,IT Center,17,No,2.0,2,Completed,No,2.0,Monday,High,0
+REQ-1120,Certification,Faculty,2026-01-06,Walk-in,Low,Registrar,19,Yes,2.0,3,Completed,No,2.0,Tuesday,High,0
+REQ-1121,IT Support,Student,2026-01-06,Email,Low,Admissions,23,Yes,4.0,3,Completed,No,,Tuesday,High,1
+REQ-1122,IT Support,Student,2026-01-06,Email,Normal,IT Center,14,Yes,6.0,5,Completed,No,5.0,Tuesday,Medium,1
+REQ-1123,Certification,Staff,2026-01-06,Portal,High,Admissions,15,Yes,5.0,5,Completed,No,3.0,Tuesday,Medium,0
+REQ-1124,Scholarship,Student,2026-01-06,Portal,High,IT Center,18,Yes,5.0,2,Completed,Yes,,Tuesday,High,1
+REQ-1125,IT Support,Student,2026-01-06,Walk-in,Low,Admissions,6,Yes,2.0,5,Completed,Yes,3.0,Tuesday,Medium,0
+REQ-1126,Records,Staff,2026-01-06,Email,High,Admissions,7,Yes,3.0,2,Completed,Yes,4.0,Tuesday,Medium,1
+REQ-1127,Scholarship,Student,2026-01-06,Portal,Low,IT Center,15,No,3.0,3,Completed,No,2.0,Tuesday,Medium,0
+REQ-1128,IT Support,Staff,2026-01-06,Email,High,IT Center,1,Yes,2.0,3,Completed,Yes,2.0,Tuesday,Low,0
+REQ-1129,IT Support,Staff,2026-01-06,Email,Normal,Registrar,8,No,2.0,3,Completed,Yes,3.0,Tuesday,Medium,0
+REQ-1130,IT Support,Faculty,2026-01-06,Email,Normal,Admissions,17,No,3.0,5,Completed,Yes,4.0,Tuesday,High,0
+REQ-1131,IT Support,Student,2026-01-06,Walk-in,High,Admissions,24,No,2.0,5,Completed,No,5.0,Tuesday,High,0
+REQ-1132,Records,Student,2026-01-06,Portal,Normal,Admissions,12,No,4.0,3,Cancelled,No,3.0,Tuesday,Medium,
+REQ-1133,IT Support,Student,2026-01-06,Email,High,Admissions,9,Yes,5.0,5,Pending,No,,Tuesday,Medium,
+REQ-1134,Scholarship,Faculty,2026-01-06,Email,Normal,Admissions,11,No,1.0,2,Completed,Yes,4.0,Tuesday,Medium,0
+REQ-1135,Certification,Student,2026-01-06,Walk-in,High,Admissions,17,No,3.0,2,Completed,No,1.0,Tuesday,High,1
+REQ-1136,IT Support,Faculty,2026-01-06,Portal,Normal,IT Center,13,Yes,5.0,3,Completed,No,5.0,Tuesday,Medium,1
+REQ-1137,Records,Student,2026-01-06,Portal,Low,Registrar,0,Yes,5.0,3,Completed,No,4.0,Tuesday,Low,1
+REQ-1138,Certification,Faculty,2026-01-06,Email,High,Registrar,13,No,6.0,5,Completed,Yes,3.0,Tuesday,Medium,1
+REQ-1139,Certification,Student,2026-01-06,Email,Normal,Registrar,10,Yes,3.0,5,Pending,Yes,3.0,Tuesday,Medium,
+REQ-1140,Scholarship,Staff,2026-01-06,Walk-in,Normal,IT Center,17,Yes,6.0,2,Pending,No,2.0,Tuesday,High,
+REQ-1141,Records,Student,2026-01-06,Email,Low,Admissions,21,No,2.0,2,Completed,Yes,4.0,Tuesday,High,0
+REQ-1142,Certification,Student,2026-01-06,Walk-in,Low,IT Center,24,No,3.0,5,Completed,No,4.0,Tuesday,High,0
+REQ-1143,Certification,Student,2026-01-06,Email,Normal,Registrar,15,Yes,2.0,3,Pending,No,3.0,Tuesday,Medium,
+REQ-1144,Scholarship,Staff,2026-01-07,Portal,Low,Registrar,9,No,3.0,2,Completed,Yes,2.0,Wednesday,Medium,1
+REQ-1145,Scholarship,Student,2026-01-07,Portal,High,Admissions,11,Yes,3.0,5,Pending,No,3.0,Wednesday,Medium,
+REQ-1146,Records,Faculty,2026-01-07,Walk-in,High,Admissions,4,No,2.0,3,Completed,Yes,3.0,Wednesday,Low,0
+REQ-1147,Records,Faculty,2026-01-07,Portal,High,IT Center,23,No,5.0,5,Cancelled,No,3.0,Wednesday,High,
+REQ-1148,Scholarship,Faculty,2026-01-07,Walk-in,High,Admissions,21,Yes,3.0,5,Completed,Yes,2.0,Wednesday,High,0
+REQ-1149,Records,Staff,2026-01-07,Portal,Normal,Admissions,21,Yes,2.0,5,Completed,Yes,4.0,Wednesday,High,0
+REQ-1150,Scholarship,Staff,2026-01-07,Portal,Low,Admissions,8,No,2.0,3,Completed,Yes,2.0,Wednesday,Medium,0
+REQ-1151,Certification,Faculty,2026-01-07,Portal,Normal,Admissions,8,Yes,3.0,5,Completed,Yes,4.0,Wednesday,Medium,0
+REQ-1152,Scholarship,Staff,2026-01-07,Email,Normal,IT Center,21,Yes,3.0,5,Completed,No,1.0,Wednesday,High,0
+REQ-1153,Certification,Student,2026-01-07,Email,High,IT Center,13,Yes,3.0,2,Completed,Yes,3.0,Wednesday,Medium,1
+REQ-1154,Certification,Staff,2026-01-07,Walk-in,Low,IT Center,17,No,2.0,2,Completed,Yes,5.0,Wednesday,High,0
+REQ-1155,IT Support,Faculty,2026-01-07,Email,Normal,Registrar,12,Yes,5.0,2,Pending,Yes,5.0,Wednesday,Medium,
+REQ-1156,Records,Staff,2026-01-07,Email,Normal,IT Center,11,No,7.0,3,Completed,Yes,5.0,Wednesday,Medium,1
+REQ-1157,IT Support,Staff,2026-01-07,Email,Low,IT Center,15,No,3.0,3,Completed,Yes,5.0,Wednesday,Medium,0
+REQ-1158,IT Support,Staff,2026-01-07,Walk-in,Low,IT Center,20,Yes,4.0,2,Completed,No,1.0,Wednesday,High,1
+REQ-1159,Scholarship,Staff,2026-01-07,Email,Normal,IT Center,8,No,6.0,3,Completed,No,3.0,Wednesday,Medium,1
+REQ-1160,Scholarship,Faculty,2026-01-07,Portal,Low,IT Center,20,No,,2,Completed,Yes,4.0,Wednesday,High,
+REQ-1161,IT Support,Student,2026-01-07,Email,Low,IT Center,6,Yes,4.0,3,Completed,No,5.0,Wednesday,Medium,1
+REQ-1162,Certification,Faculty,2026-01-07,Walk-in,Normal,Registrar,10,No,6.0,3,Completed,No,4.0,Wednesday,Medium,1
+REQ-1163,Certification,Student,2026-01-07,Portal,Low,IT Center,22,Yes,7.0,3,Completed,Yes,,Wednesday,High,1
+REQ-1164,Certification,Staff,2026-01-07,Walk-in,Normal,IT Center,23,Yes,5.0,3,Pending,No,2.0,Wednesday,High,
+REQ-1165,Scholarship,Student,2026-01-07,Email,Low,Admissions,23,Yes,3.0,3,Completed,Yes,1.0,Wednesday,High,0
+REQ-1166,Certification,Student,2026-01-07,Email,Low,IT Center,7,No,1.0,5,Pending,Yes,1.0,Wednesday,Medium,
+REQ-1167,Records,Student,2026-01-07,Portal,Normal,IT Center,21,No,1.0,5,Completed,Yes,4.0,Wednesday,High,0
+REQ-1168,Certification,Faculty,2026-01-08,Walk-in,High,Registrar,23,Yes,3.0,5,Completed,Yes,4.0,Thursday,High,0
+REQ-1169,Records,Faculty,2026-01-08,Portal,Normal,Registrar,24,No,3.0,3,Completed,No,2.0,Thursday,High,0
+REQ-1170,Records,Staff,2026-01-08,Portal,High,IT Center,0,No,3.0,3,Completed,No,5.0,Thursday,Low,0
+REQ-1171,Records,Faculty,2026-01-08,Email,Normal,IT Center,18,No,4.0,2,Completed,Yes,5.0,Thursday,High,1
+REQ-1172,Scholarship,Student,2026-01-08,Email,Normal,IT Center,24,No,4.0,3,Completed,No,3.0,Thursday,High,1
+REQ-1173,IT Support,Student,2026-01-08,Email,Normal,IT Center,19,Yes,6.0,2,Completed,No,2.0,Thursday,High,1
+REQ-1174,IT Support,Student,2026-01-08,Portal,High,Admissions,5,No,2.0,3,Completed,No,5.0,Thursday,Low,0
+REQ-1175,Certification,Faculty,2026-01-08,Portal,High,Registrar,19,Yes,2.0,2,Completed,No,5.0,Thursday,High,0
+REQ-1176,IT Support,Staff,2026-01-08,Portal,High,Registrar,2,Yes,5.0,3,Completed,No,2.0,Thursday,Low,1
+REQ-1177,Records,Faculty,2026-01-08,Email,High,Registrar,12,Yes,6.0,5,Pending,Yes,2.0,Thursday,Medium,
+REQ-1178,Scholarship,Staff,2026-01-08,Email,Normal,Registrar,15,No,,5,Completed,No,3.0,Thursday,Medium,
+REQ-1179,IT Support,Student,2026-01-08,Email,Normal,Admissions,11,No,6.0,3,Cancelled,No,4.0,Thursday,Medium,
+REQ-1180,Scholarship,Student,2026-01-08,Email,High,Registrar,17,Yes,6.0,2,Completed,No,1.0,Thursday,High,1
+REQ-1181,Records,Staff,2026-01-08,Walk-in,Low,IT Center,6,Yes,3.0,2,Cancelled,No,,Thursday,Medium,
+REQ-1182,Certification,Student,2026-01-08,Email,Normal,Registrar,15,Yes,3.0,2,Pending,Yes,3.0,Thursday,Medium,
+REQ-1183,IT Support,Student,2026-01-08,Email,High,Admissions,16,No,2.0,5,Completed,Yes,3.0,Thursday,High,0
+REQ-1184,Certification,Faculty,2026-01-08,Email,Normal,Admissions,15,Yes,4.0,5,Completed,Yes,1.0,Thursday,Medium,0
+REQ-1185,Certification,Staff,2026-01-08,Email,Low,Registrar,7,No,7.0,3,Completed,Yes,,Thursday,Medium,1
+REQ-1186,Records,Staff,2026-01-08,Email,Normal,Registrar,7,Yes,3.0,2,Pending,No,2.0,Thursday,Medium,
+REQ-1187,Certification,Student,2026-01-08,Portal,Low,Registrar,6,Yes,4.0,2,Completed,No,,Thursday,Medium,1
+REQ-1188,Records,Staff,2026-01-08,Portal,High,IT Center,11,No,2.0,5,Completed,No,3.0,Thursday,Medium,0
+REQ-1189,Certification,Staff,2026-01-08,Walk-in,High,Admissions,14,Yes,2.0,2,Pending,No,,Thursday,Medium,
+REQ-1190,IT Support,Staff,2026-01-08,Email,Low,IT Center,9,Yes,2.0,2,Completed,No,2.0,Thursday,Medium,0
+REQ-1191,IT Support,Staff,2026-01-08,Email,Normal,Admissions,10,Yes,1.0,2,Completed,No,1.0,Thursday,Medium,0
+REQ-1192,IT Support,Student,2026-01-09,Portal,High,IT Center,7,No,7.0,2,Completed,No,5.0,Friday,Medium,1
+REQ-1193,Certification,Staff,2026-01-09,Email,High,Registrar,5,Yes,3.0,3,Completed,No,5.0,Friday,Low,0
+REQ-1194,Scholarship,Student,2026-01-09,Email,Low,IT Center,16,Yes,6.0,5,Completed,No,4.0,Friday,High,1
+REQ-1195,Records,Staff,2026-01-09,Email,Normal,Registrar,20,Yes,5.0,2,Pending,Yes,1.0,Friday,High,
+REQ-1196,Certification,Faculty,2026-01-09,Email,Normal,Admissions,7,No,2.0,5,Completed,No,,Friday,Medium,0
+REQ-1197,Records,Staff,2026-01-09,Email,Normal,Registrar,21,No,2.0,2,Completed,No,3.0,Friday,High,0
+REQ-1198,Certification,Faculty,2026-01-09,Walk-in,Low,IT Center,14,No,6.0,2,Completed,No,,Friday,Medium,1
+REQ-1199,Scholarship,Faculty,2026-01-09,Email,Low,IT Center,4,Yes,2.0,2,Completed,Yes,,Friday,Low,0
+REQ-1200,Certification,Faculty,2026-01-09,Walk-in,High,Registrar,9,No,7.0,5,Completed,Yes,,Friday,Medium,1
+REQ-1201,Scholarship,Staff,2026-01-09,Walk-in,Low,IT Center,0,Yes,2.0,3,Pending,Yes,5.0,Friday,Low,
+REQ-1202,Certification,Staff,2026-01-09,Email,Low,IT Center,0,No,5.0,5,Pending,No,5.0,Friday,Low,
+REQ-1203,IT Support,Student,2026-01-09,Walk-in,Low,Registrar,8,No,6.0,2,Completed,No,4.0,Friday,Medium,1
+REQ-1204,Certification,Staff,2026-01-09,Portal,Low,Registrar,11,No,2.0,2,Completed,No,1.0,Friday,Medium,0
+REQ-1205,Certification,Faculty,2026-01-09,Walk-in,Low,Registrar,19,No,2.0,5,Completed,No,3.0,Friday,High,0
+REQ-1206,Scholarship,Student,2026-01-09,Walk-in,Normal,Registrar,3,No,,2,Completed,Yes,5.0,Friday,Low,
+REQ-1207,Scholarship,Faculty,2026-01-09,Email,High,IT Center,20,Yes,2.0,2,Completed,No,5.0,Friday,High,0
+REQ-1208,Certification,Staff,2026-01-09,Walk-in,Low,Registrar,5,No,3.0,3,Completed,No,4.0,Friday,Low,0
+REQ-1209,Scholarship,Staff,2026-01-09,Email,Low,Admissions,3,No,3.0,3,Completed,Yes,5.0,Friday,Low,0
+REQ-1210,Certification,Staff,2026-01-09,Portal,Low,Registrar,17,No,2.0,2,Cancelled,No,1.0,Friday,High,
+REQ-1211,IT Support,Faculty,2026-01-09,Walk-in,Normal,IT Center,19,No,5.0,3,Completed,Yes,3.0,Friday,High,1
+REQ-1212,Scholarship,Staff,2026-01-09,Portal,Low,Admissions,15,Yes,5.0,5,Pending,No,4.0,Friday,Medium,
+REQ-1213,Certification,Faculty,2026-01-09,Portal,High,IT Center,2,No,3.0,3,Completed,No,,Friday,Low,0
+REQ-1214,IT Support,Staff,2026-01-09,Email,Normal,Admissions,2,Yes,6.0,3,Pending,No,2.0,Friday,Low,
+REQ-1215,Certification,Faculty,2026-01-09,Walk-in,High,Registrar,9,No,2.0,2,Completed,No,2.0,Friday,Medium,0
+REQ-1216,Records,Student,2026-01-10,Email,Normal,Registrar,11,No,1.0,3,Completed,Yes,3.0,Saturday,Medium,0
+REQ-1217,Records,Student,2026-01-10,Email,Normal,Registrar,24,Yes,4.0,5,Pending,No,2.0,Saturday,High,
+REQ-1218,Certification,Student,2026-01-10,Portal,High,Registrar,7,No,,3,Pending,No,4.0,Saturday,Medium,
+REQ-1219,Scholarship,Student,2026-01-10,Portal,Normal,Registrar,4,No,1.0,5,Completed,No,4.0,Saturday,Low,0
+REQ-1220,Records,Faculty,2026-01-10,Portal,High,Registrar,23,No,2.0,2,Completed,No,5.0,Saturday,High,0
+REQ-1221,Certification,Faculty,2026-01-10,Portal,High,Admissions,3,Yes,4.0,2,Completed,Yes,,Saturday,Low,1
+REQ-1222,IT Support,Student,2026-01-10,Walk-in,Normal,Registrar,0,Yes,6.0,3,Completed,No,1.0,Saturday,Low,1
+REQ-1223,Records,Faculty,2026-01-10,Walk-in,High,Admissions,10,No,1.0,2,Completed,Yes,2.0,Saturday,Medium,0
+REQ-1224,IT Support,Faculty,2026-01-10,Walk-in,Low,Admissions,10,No,3.0,3,Pending,No,2.0,Saturday,Medium,
+REQ-1225,Certification,Student,2026-01-10,Portal,High,Admissions,15,No,5.0,5,Completed,Yes,2.0,Saturday,Medium,0
+REQ-1226,Scholarship,Faculty,2026-01-10,Portal,High,Registrar,21,No,3.0,3,Completed,Yes,5.0,Saturday,High,0
+REQ-1227,IT Support,Faculty,2026-01-10,Portal,High,Admissions,23,Yes,2.0,3,Completed,Yes,1.0,Saturday,High,0
+REQ-1228,IT Support,Faculty,2026-01-10,Email,Low,IT Center,7,No,2.0,5,Completed,No,1.0,Saturday,Medium,0
+REQ-1229,Records,Faculty,2026-01-10,Email,High,Admissions,24,Yes,3.0,2,Completed,Yes,,Saturday,High,1
+REQ-1230,Certification,Staff,2026-01-10,Email,Normal,IT Center,15,No,3.0,5,Completed,Yes,,Saturday,Medium,0
+REQ-1231,Scholarship,Student,2026-01-10,Portal,Low,Admissions,1,No,6.0,2,Completed,No,2.0,Saturday,Low,1
+REQ-1232,Records,Faculty,2026-01-10,Walk-in,Low,IT Center,23,No,4.0,5,Completed,Yes,2.0,Saturday,High,0
+REQ-1233,Scholarship,Faculty,2026-01-10,Portal,Normal,Registrar,3,No,5.0,3,Pending,Yes,4.0,Saturday,Low,
+REQ-1234,Certification,Student,2026-01-10,Portal,Low,IT Center,14,Yes,,2,Completed,Yes,4.0,Saturday,Medium,
+REQ-1235,IT Support,Staff,2026-01-10,Walk-in,Low,Registrar,19,Yes,3.0,5,Pending,Yes,,Saturday,High,
+REQ-1236,IT Support,Student,2026-01-10,Walk-in,Normal,Admissions,6,Yes,3.0,2,Completed,No,3.0,Saturday,Medium,1
+REQ-1237,Certification,Student,2026-01-10,Portal,Normal,Registrar,6,No,7.0,3,Completed,No,1.0,Saturday,Medium,1
+REQ-1238,Certification,Staff,2026-01-10,Email,Low,Registrar,11,Yes,2.0,5,Completed,No,3.0,Saturday,Medium,0
+REQ-1239,IT Support,Staff,2026-01-10,Walk-in,High,IT Center,22,No,5.0,5,Completed,Yes,4.0,Saturday,High,0
+REQ-1240,Records,Staff,2026-01-11,Walk-in,High,IT Center,5,Yes,5.0,5,Completed,Yes,4.0,Sunday,Low,0
+REQ-1241,IT Support,Staff,2026-01-11,Walk-in,Normal,Registrar,16,Yes,1.0,3,Completed,Yes,4.0,Sunday,High,0
+REQ-1242,Records,Staff,2026-01-11,Email,High,Admissions,11,Yes,3.0,3,Completed,Yes,,Sunday,Medium,0
+REQ-1243,IT Support,Faculty,2026-01-11,Email,Normal,Admissions,2,Yes,2.0,2,Completed,No,5.0,Sunday,Low,0
+REQ-1244,IT Support,Staff,2026-01-11,Walk-in,Low,Admissions,17,Yes,2.0,5,Completed,No,2.0,Sunday,High,0
+REQ-1245,Records,Student,2026-01-11,Portal,Low,IT Center,20,Yes,3.0,3,Completed,Yes,3.0,Sunday,High,0
+REQ-1246,Scholarship,Faculty,2026-01-11,Portal,High,IT Center,14,No,2.0,5,Completed,No,5.0,Sunday,Medium,0
+REQ-1247,Certification,Faculty,2026-01-11,Email,High,IT Center,4,No,5.0,3,Completed,No,3.0,Sunday,Low,1
+REQ-1248,Scholarship,Staff,2026-01-11,Walk-in,High,IT Center,3,No,7.0,5,Completed,Yes,3.0,Sunday,Low,1
+REQ-1249,Records,Staff,2026-01-11,Portal,Low,Registrar,10,Yes,6.0,2,Completed,No,2.0,Sunday,Medium,1
+REQ-1250,Records,Faculty,2026-01-11,Email,Low,Registrar,12,No,2.0,5,Completed,Yes,2.0,Sunday,Medium,0
+REQ-1251,Certification,Faculty,2026-01-11,Email,Low,Registrar,13,No,2.0,2,Completed,Yes,5.0,Sunday,Medium,0
+REQ-1252,Records,Student,2026-01-11,Email,Low,IT Center,6,No,2.0,2,Completed,No,,Sunday,Medium,0
+REQ-1253,Certification,Staff,2026-01-11,Walk-in,Low,Registrar,12,Yes,2.0,3,Completed,No,5.0,Sunday,Medium,0
+REQ-1254,IT Support,Faculty,2026-01-11,Portal,Normal,Registrar,7,No,7.0,3,Cancelled,Yes,2.0,Sunday,Medium,
+REQ-1255,Records,Faculty,2026-01-11,Walk-in,Low,Admissions,17,No,3.0,5,Completed,No,1.0,Sunday,High,0
+REQ-1256,IT Support,Staff,2026-01-11,Email,High,IT Center,19,Yes,2.0,3,Pending,No,1.0,Sunday,High,
+REQ-1257,Records,Faculty,2026-01-11,Walk-in,Normal,IT Center,16,Yes,6.0,2,Completed,No,3.0,Sunday,High,1
+REQ-1258,Records,Student,2026-01-11,Email,Low,IT Center,0,No,3.0,2,Completed,Yes,4.0,Sunday,Low,1
+REQ-1259,IT Support,Student,2026-01-11,Portal,Normal,Admissions,24,Yes,1.0,3,Completed,No,,Sunday,High,0
+REQ-1260,Scholarship,Student,2026-01-11,Walk-in,High,Admissions,0,Yes,2.0,3,Completed,No,,Sunday,Low,0
+REQ-1261,Records,Staff,2026-01-11,Walk-in,Low,Registrar,24,No,4.0,3,Cancelled,No,1.0,Sunday,High,
+REQ-1262,Certification,Student,2026-01-11,Portal,Low,Admissions,0,Yes,5.0,2,Completed,No,5.0,Sunday,Low,1
+REQ-1263,Scholarship,Student,2026-01-11,Walk-in,Low,IT Center,12,Yes,2.0,3,Completed,No,2.0,Sunday,Medium,0
+REQ-1264,Scholarship,Faculty,2026-01-12,Walk-in,High,Admissions,2,Yes,7.0,3,Completed,No,2.0,Monday,Low,1
+REQ-1265,IT Support,Staff,2026-01-12,Email,Low,IT Center,2,No,6.0,5,Completed,No,4.0,Monday,Low,1
+REQ-1266,Certification,Faculty,2026-01-12,Walk-in,Normal,Registrar,17,Yes,6.0,3,Completed,No,1.0,Monday,High,1
+REQ-1267,Certification,Staff,2026-01-12,Email,Normal,Admissions,18,No,2.0,5,Completed,Yes,3.0,Monday,High,0
+REQ-1268,IT Support,Staff,2026-01-12,Email,High,Registrar,2,Yes,1.0,2,Completed,Yes,4.0,Monday,Low,0
+REQ-1269,IT Support,Student,2026-01-12,Portal,Low,Admissions,24,No,6.0,5,Pending,No,2.0,Monday,High,
+REQ-1270,Certification,Staff,2026-01-12,Walk-in,High,Registrar,8,No,3.0,2,Completed,No,4.0,Monday,Medium,1
+REQ-1271,Records,Faculty,2026-01-12,Portal,High,Registrar,7,No,4.0,2,Completed,No,3.0,Monday,Medium,1
+REQ-1272,Records,Faculty,2026-01-12,Walk-in,Normal,IT Center,7,No,5.0,5,Completed,Yes,5.0,Monday,Medium,0
+REQ-1273,Scholarship,Student,2026-01-12,Email,Low,Admissions,11,Yes,2.0,3,Pending,No,2.0,Monday,Medium,
+REQ-1274,Certification,Faculty,2026-01-12,Email,High,IT Center,4,No,5.0,3,Pending,Yes,1.0,Monday,Low,
+REQ-1275,Certification,Staff,2026-01-12,Portal,Low,Registrar,10,No,7.0,3,Completed,Yes,4.0,Monday,Medium,1
+REQ-1276,Certification,Faculty,2026-01-12,Walk-in,Normal,Registrar,5,No,5.0,5,Completed,Yes,2.0,Monday,Low,0
+REQ-1277,Scholarship,Student,2026-01-12,Portal,Normal,Admissions,1,No,3.0,2,Completed,Yes,5.0,Monday,Low,1
+REQ-1278,Records,Faculty,2026-01-12,Email,Low,Admissions,9,No,6.0,2,Pending,No,1.0,Monday,Medium,
+REQ-1279,Records,Staff,2026-01-12,Walk-in,Normal,Registrar,16,Yes,4.0,2,Completed,No,4.0,Monday,High,1
+REQ-1280,Certification,Staff,2026-01-12,Walk-in,Low,IT Center,19,Yes,5.0,5,Completed,Yes,,Monday,High,0
+REQ-1281,Certification,Student,2026-01-12,Walk-in,Low,Registrar,8,Yes,6.0,2,Completed,No,1.0,Monday,Medium,1
+REQ-1282,IT Support,Staff,2026-01-12,Walk-in,Low,Registrar,8,Yes,5.0,3,Completed,Yes,2.0,Monday,Medium,1
+REQ-1283,Certification,Staff,2026-01-12,Email,Low,Admissions,19,No,2.0,3,Completed,Yes,,Monday,High,0
+REQ-1284,Certification,Student,2026-01-12,Portal,Normal,IT Center,17,No,2.0,2,Completed,No,4.0,Monday,High,0
+REQ-1285,Scholarship,Staff,2026-01-12,Walk-in,High,Registrar,20,Yes,2.0,3,Completed,Yes,2.0,Monday,High,0
+REQ-1286,Records,Faculty,2026-01-12,Walk-in,Low,IT Center,22,Yes,4.0,2,Pending,No,2.0,Monday,High,
+REQ-1287,IT Support,Faculty,2026-01-12,Walk-in,Low,IT Center,20,No,4.0,2,Completed,Yes,5.0,Monday,High,1
+REQ-1288,IT Support,Faculty,2026-01-13,Email,Low,Registrar,23,No,4.0,2,Completed,Yes,,Tuesday,High,1
+REQ-1289,Certification,Staff,2026-01-13,Portal,Normal,IT Center,10,No,3.0,5,Completed,No,3.0,Tuesday,Medium,0
+REQ-1290,Scholarship,Staff,2026-01-13,Email,Low,Registrar,9,No,5.0,3,Cancelled,No,3.0,Tuesday,Medium,
+REQ-1291,Certification,Staff,2026-01-13,Email,Normal,Registrar,8,No,7.0,5,Completed,Yes,5.0,Tuesday,Medium,1
+REQ-1292,Scholarship,Staff,2026-01-13,Walk-in,Low,Admissions,5,No,2.0,3,Completed,Yes,2.0,Tuesday,Low,0
+REQ-1293,Certification,Staff,2026-01-13,Email,Low,Admissions,18,Yes,5.0,2,Completed,No,2.0,Tuesday,High,1
+REQ-1294,IT Support,Student,2026-01-13,Portal,Normal,Registrar,17,No,5.0,3,Completed,Yes,5.0,Tuesday,High,1
+REQ-1295,IT Support,Student,2026-01-13,Portal,Normal,Admissions,20,Yes,4.0,5,Completed,Yes,2.0,Tuesday,High,0
+REQ-1296,Scholarship,Staff,2026-01-13,Walk-in,Normal,IT Center,4,Yes,2.0,3,Completed,No,5.0,Tuesday,Low,0
+REQ-1297,Certification,Faculty,2026-01-13,Walk-in,High,Admissions,12,Yes,5.0,2,Completed,Yes,3.0,Tuesday,Medium,1
+REQ-1298,Certification,Student,2026-01-13,Portal,Normal,Admissions,5,Yes,,2,Completed,No,,Tuesday,Low,
+REQ-1299,Records,Student,2026-01-13,Email,High,IT Center,22,Yes,5.0,5,Completed,Yes,1.0,Tuesday,High,0
+REQ-1300,Certification,Faculty,2026-01-13,Email,Normal,IT Center,6,No,7.0,3,Pending,No,,Tuesday,Medium,
+REQ-1301,Scholarship,Faculty,2026-01-13,Email,Low,IT Center,3,No,,5,Completed,No,2.0,Tuesday,Low,
+REQ-1302,Records,Student,2026-01-13,Walk-in,Low,Admissions,14,Yes,3.0,3,Completed,Yes,1.0,Tuesday,Medium,0
+REQ-1303,Scholarship,Student,2026-01-13,Portal,Low,Registrar,21,No,4.0,2,Completed,Yes,5.0,Tuesday,High,1
+REQ-1304,IT Support,Student,2026-01-13,Portal,Normal,Registrar,22,Yes,3.0,5,Completed,Yes,4.0,Tuesday,High,0
+REQ-1305,Records,Faculty,2026-01-13,Portal,Low,Registrar,2,Yes,,5,Completed,No,,Tuesday,Low,
+REQ-1306,Certification,Student,2026-01-13,Portal,High,Registrar,8,No,1.0,5,Completed,No,1.0,Tuesday,Medium,0
+REQ-1307,IT Support,Faculty,2026-01-13,Walk-in,Normal,Registrar,3,Yes,3.0,5,Completed,No,1.0,Tuesday,Low,0
+REQ-1308,Certification,Faculty,2026-01-13,Walk-in,High,Registrar,7,No,6.0,2,Completed,Yes,4.0,Tuesday,Medium,1
+REQ-1309,Records,Faculty,2026-01-13,Portal,High,Admissions,13,No,2.0,5,Pending,Yes,,Tuesday,Medium,
+REQ-1310,IT Support,Staff,2026-01-13,Email,Normal,Registrar,7,Yes,5.0,2,Cancelled,No,3.0,Tuesday,Medium,
+REQ-1311,IT Support,Faculty,2026-01-13,Portal,Low,Admissions,1,Yes,3.0,5,Completed,No,5.0,Tuesday,Low,0
+REQ-1312,Records,Staff,2026-01-14,Portal,High,Registrar,12,No,,2,Completed,No,,Wednesday,Medium,
+REQ-1313,Certification,Staff,2026-01-14,Portal,Low,Admissions,1,No,6.0,3,Completed,Yes,,Wednesday,Low,1
+REQ-1314,Records,Staff,2026-01-14,Portal,Low,Registrar,5,No,3.0,5,Completed,Yes,4.0,Wednesday,Low,0
+REQ-1315,IT Support,Staff,2026-01-14,Email,High,IT Center,0,Yes,5.0,2,Completed,Yes,5.0,Wednesday,Low,1
+REQ-1316,IT Support,Faculty,2026-01-14,Walk-in,Normal,Registrar,2,Yes,3.0,2,Completed,Yes,4.0,Wednesday,Low,1
+REQ-1317,IT Support,Faculty,2026-01-14,Email,Low,IT Center,10,No,4.0,5,Completed,Yes,5.0,Wednesday,Medium,0
+REQ-1318,Scholarship,Student,2026-01-14,Walk-in,Normal,IT Center,21,No,5.0,2,Completed,No,4.0,Wednesday,High,1
+REQ-1319,Scholarship,Faculty,2026-01-14,Email,Normal,IT Center,19,Yes,6.0,3,Pending,Yes,4.0,Wednesday,High,
+REQ-1320,Certification,Student,2026-01-14,Portal,High,IT Center,2,No,1.0,5,Completed,No,3.0,Wednesday,Low,0
+REQ-1321,Records,Staff,2026-01-14,Portal,High,IT Center,0,No,2.0,3,Completed,No,4.0,Wednesday,Low,0
+REQ-1322,IT Support,Staff,2026-01-14,Portal,Low,Admissions,8,Yes,5.0,3,Completed,No,5.0,Wednesday,Medium,1
+REQ-1323,Scholarship,Student,2026-01-14,Portal,Low,IT Center,16,Yes,4.0,3,Completed,No,,Wednesday,High,1
+REQ-1324,Scholarship,Staff,2026-01-14,Walk-in,Normal,IT Center,18,No,3.0,3,Completed,Yes,4.0,Wednesday,High,0
+REQ-1325,Records,Student,2026-01-14,Walk-in,Low,Registrar,20,No,1.0,3,Cancelled,No,1.0,Wednesday,High,
+REQ-1326,Records,Staff,2026-01-14,Walk-in,Low,IT Center,8,Yes,3.0,3,Completed,Yes,4.0,Wednesday,Medium,0
+REQ-1327,Records,Student,2026-01-14,Email,Low,Registrar,4,Yes,6.0,2,Completed,No,2.0,Wednesday,Low,1
+REQ-1328,Records,Faculty,2026-01-14,Email,Low,Registrar,0,No,1.0,3,Completed,No,1.0,Wednesday,Low,0
+REQ-1329,IT Support,Faculty,2026-01-14,Email,High,Admissions,3,Yes,3.0,5,Completed,No,1.0,Wednesday,Low,0
+REQ-1330,IT Support,Staff,2026-01-14,Email,Low,Registrar,1,No,7.0,5,Completed,Yes,4.0,Wednesday,Low,1
+REQ-1331,Certification,Faculty,2026-01-14,Walk-in,Low,IT Center,21,No,1.0,2,Completed,Yes,,Wednesday,High,0
+REQ-1332,Certification,Staff,2026-01-14,Walk-in,High,Admissions,6,No,5.0,5,Pending,Yes,4.0,Wednesday,Medium,
+REQ-1333,Scholarship,Staff,2026-01-14,Walk-in,Low,Admissions,20,Yes,2.0,5,Completed,Yes,3.0,Wednesday,High,0
+REQ-1334,Certification,Student,2026-01-14,Email,High,Registrar,13,Yes,6.0,2,Completed,No,1.0,Wednesday,Medium,1
+REQ-1335,Scholarship,Staff,2026-01-14,Portal,Low,Registrar,13,Yes,5.0,5,Completed,Yes,5.0,Wednesday,Medium,0
+REQ-1336,Scholarship,Staff,2026-01-15,Walk-in,Low,IT Center,11,No,6.0,3,Pending,Yes,1.0,Thursday,Medium,
+REQ-1337,Certification,Faculty,2026-01-15,Email,Low,IT Center,20,Yes,2.0,3,Completed,No,,Thursday,High,0
+REQ-1338,Records,Staff,2026-01-15,Walk-in,High,Admissions,1,Yes,4.0,5,Completed,Yes,5.0,Thursday,Low,0
+REQ-1339,Scholarship,Staff,2026-01-15,Email,Normal,Registrar,2,Yes,5.0,3,Completed,No,,Thursday,Low,1
+REQ-1340,IT Support,Staff,2026-01-15,Walk-in,Normal,Registrar,10,Yes,2.0,3,Completed,Yes,2.0,Thursday,Medium,0
+REQ-1341,Certification,Staff,2026-01-15,Email,Low,Registrar,9,Yes,2.0,2,Completed,Yes,1.0,Thursday,Medium,0
+REQ-1342,IT Support,Faculty,2026-01-15,Walk-in,Low,Admissions,13,No,1.0,5,Completed,No,2.0,Thursday,Medium,0
+REQ-1343,IT Support,Student,2026-01-15,Walk-in,Normal,Registrar,18,No,,5,Completed,No,5.0,Thursday,High,
+REQ-1344,Scholarship,Staff,2026-01-15,Portal,Low,IT Center,14,Yes,5.0,2,Completed,No,2.0,Thursday,Medium,1
+REQ-1345,Certification,Faculty,2026-01-15,Email,Normal,Registrar,6,Yes,4.0,5,Completed,No,,Thursday,Medium,0
+REQ-1346,Scholarship,Faculty,2026-01-15,Email,High,Registrar,8,Yes,5.0,2,Pending,Yes,1.0,Thursday,Medium,
+REQ-1347,Scholarship,Student,2026-01-15,Walk-in,High,Admissions,18,No,4.0,3,Pending,No,1.0,Thursday,High,
+REQ-1348,Records,Student,2026-01-15,Walk-in,Normal,Registrar,5,Yes,3.0,5,Completed,Yes,2.0,Thursday,Low,0
+REQ-1349,Records,Student,2026-01-15,Walk-in,Low,Registrar,12,No,3.0,2,Completed,No,5.0,Thursday,Medium,1
+REQ-1350,IT Support,Staff,2026-01-15,Email,Low,Admissions,13,Yes,4.0,3,Completed,Yes,4.0,Thursday,Medium,1
+REQ-1351,Records,Student,2026-01-15,Email,High,IT Center,18,Yes,2.0,2,Pending,No,3.0,Thursday,High,
+REQ-1352,Certification,Student,2026-01-15,Email,Normal,Registrar,17,No,6.0,5,Completed,Yes,4.0,Thursday,High,1
+REQ-1353,Certification,Staff,2026-01-15,Walk-in,Normal,IT Center,11,No,6.0,3,Completed,No,4.0,Thursday,Medium,1
+REQ-1354,Scholarship,Faculty,2026-01-15,Portal,Normal,Admissions,7,No,3.0,3,Completed,No,4.0,Thursday,Medium,0
+REQ-1355,Scholarship,Faculty,2026-01-15,Email,Low,IT Center,9,No,4.0,5,Completed,No,4.0,Thursday,Medium,0
+REQ-1356,Records,Staff,2026-01-15,Portal,High,IT Center,10,No,2.0,3,Completed,No,1.0,Thursday,Medium,0
+REQ-1357,Scholarship,Faculty,2026-01-15,Walk-in,High,IT Center,5,No,,5,Completed,Yes,2.0,Thursday,Low,
+REQ-1358,Records,Student,2026-01-15,Email,High,IT Center,15,Yes,7.0,2,Cancelled,Yes,4.0,Thursday,Medium,
+REQ-1359,IT Support,Staff,2026-01-15,Email,High,Registrar,5,Yes,7.0,2,Completed,No,1.0,Thursday,Low,1
+REQ-1360,Scholarship,Student,2026-01-16,Email,Low,Admissions,16,Yes,3.0,5,Pending,Yes,3.0,Friday,High,
+REQ-1361,Scholarship,Faculty,2026-01-16,Email,Low,Admissions,18,Yes,2.0,5,Completed,Yes,1.0,Friday,High,0
+REQ-1362,Records,Staff,2026-01-16,Walk-in,Low,Registrar,24,Yes,2.0,3,Completed,Yes,5.0,Friday,High,0
+REQ-1363,Scholarship,Staff,2026-01-16,Email,High,Admissions,2,Yes,1.0,3,Pending,No,1.0,Friday,Low,
+REQ-1364,Records,Faculty,2026-01-16,Email,Normal,Admissions,18,Yes,2.0,2,Completed,Yes,1.0,Friday,High,0
+REQ-1365,IT Support,Staff,2026-01-16,Portal,Normal,Admissions,2,No,1.0,5,Completed,Yes,4.0,Friday,Low,0
+REQ-1366,Certification,Faculty,2026-01-16,Portal,High,IT Center,8,Yes,,5,Completed,No,2.0,Friday,Medium,
+REQ-1367,Certification,Faculty,2026-01-16,Email,Normal,IT Center,4,No,1.0,2,Completed,Yes,3.0,Friday,Low,0
+REQ-1368,Records,Student,2026-01-16,Walk-in,High,Admissions,4,Yes,2.0,3,Completed,Yes,2.0,Friday,Low,0
+REQ-1369,Scholarship,Faculty,2026-01-16,Walk-in,High,Registrar,4,No,6.0,3,Completed,Yes,2.0,Friday,Low,1
+REQ-1370,Certification,Faculty,2026-01-16,Email,Low,Admissions,1,No,4.0,3,Completed,No,5.0,Friday,Low,1
+REQ-1371,IT Support,Staff,2026-01-16,Email,Normal,Admissions,20,Yes,5.0,5,Completed,Yes,5.0,Friday,High,0
+REQ-1372,Certification,Student,2026-01-16,Email,High,Admissions,1,Yes,4.0,2,Completed,No,2.0,Friday,Low,1
+REQ-1373,Certification,Staff,2026-01-16,Portal,High,IT Center,9,No,6.0,2,Completed,Yes,5.0,Friday,Medium,1
+REQ-1374,Scholarship,Staff,2026-01-16,Portal,Low,IT Center,17,No,4.0,2,Completed,Yes,5.0,Friday,High,1
+REQ-1375,Records,Staff,2026-01-16,Email,Low,Registrar,24,Yes,4.0,5,Completed,Yes,4.0,Friday,High,0
+REQ-1376,IT Support,Faculty,2026-01-16,Portal,Normal,Admissions,21,No,5.0,3,Pending,Yes,4.0,Friday,High,
+REQ-1377,IT Support,Student,2026-01-16,Portal,High,IT Center,3,No,3.0,5,Completed,Yes,,Friday,Low,0
+REQ-1378,Certification,Student,2026-01-16,Portal,Low,Registrar,24,Yes,3.0,3,Completed,Yes,3.0,Friday,High,0
+REQ-1379,Certification,Staff,2026-01-16,Portal,Normal,Admissions,16,Yes,3.0,2,Completed,Yes,3.0,Friday,High,1
+REQ-1380,Records,Staff,2026-01-16,Email,Low,IT Center,4,Yes,2.0,3,Pending,No,4.0,Friday,Low,
+REQ-1381,Scholarship,Faculty,2026-01-16,Walk-in,Low,IT Center,11,No,5.0,2,Completed,No,,Friday,Medium,1
+REQ-1382,Scholarship,Student,2026-01-16,Walk-in,Normal,Registrar,22,No,2.0,5,Completed,No,5.0,Friday,High,0
+REQ-1383,Records,Student,2026-01-16,Email,Normal,Admissions,9,No,2.0,5,Completed,No,1.0,Friday,Medium,0
+REQ-1384,Records,Faculty,2026-01-17,Email,Normal,IT Center,4,No,2.0,5,Completed,No,3.0,Saturday,Low,0
+REQ-1385,Records,Faculty,2026-01-17,Portal,Low,Admissions,21,Yes,6.0,3,Completed,No,5.0,Saturday,High,1
+REQ-1386,Records,Student,2026-01-17,Portal,High,Admissions,23,Yes,3.0,2,Cancelled,No,2.0,Saturday,High,
+REQ-1387,Scholarship,Staff,2026-01-17,Email,Low,Registrar,24,Yes,5.0,2,Completed,Yes,,Saturday,High,1
+REQ-1388,Scholarship,Faculty,2026-01-17,Email,High,Registrar,23,Yes,6.0,3,Completed,No,5.0,Saturday,High,1
+REQ-1389,Records,Student,2026-01-17,Portal,Low,Admissions,21,No,1.0,3,Completed,Yes,,Saturday,High,0
+REQ-1390,IT Support,Student,2026-01-17,Email,High,IT Center,11,No,5.0,5,Completed,No,1.0,Saturday,Medium,0
+REQ-1391,Records,Faculty,2026-01-17,Portal,Normal,IT Center,4,Yes,3.0,5,Completed,No,4.0,Saturday,Low,0
+REQ-1392,Certification,Staff,2026-01-17,Portal,Normal,Registrar,15,No,2.0,2,Completed,Yes,4.0,Saturday,Medium,0
+REQ-1393,IT Support,Staff,2026-01-17,Walk-in,Low,IT Center,5,No,5.0,2,Completed,Yes,4.0,Saturday,Low,1
+REQ-1394,IT Support,Faculty,2026-01-17,Email,High,Admissions,11,Yes,7.0,3,Completed,Yes,,Saturday,Medium,1
+REQ-1395,Scholarship,Student,2026-01-17,Email,Low,Registrar,16,No,2.0,3,Cancelled,Yes,3.0,Saturday,High,
+REQ-1396,Records,Staff,2026-01-17,Walk-in,Normal,IT Center,23,No,4.0,2,Completed,No,4.0,Saturday,High,1
+REQ-1397,Records,Faculty,2026-01-17,Walk-in,High,Admissions,7,No,2.0,5,Completed,No,5.0,Saturday,Medium,0
+REQ-1398,Certification,Student,2026-01-17,Walk-in,High,Registrar,6,No,4.0,5,Completed,No,5.0,Saturday,Medium,0
+REQ-1399,Certification,Faculty,2026-01-17,Email,High,Registrar,18,Yes,4.0,3,Completed,No,5.0,Saturday,High,1
